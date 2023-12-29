@@ -1,5 +1,7 @@
 # A Letter to You: Illumination - Self Aware Token
 
+![image](https://github.com/0xambr0sia/illumination/assets/147129231/7b8f74f9-bf91-4933-8be8-e40aa058d338)
+
 ## Overview
 
 This code serves as a user interface for A Letter to You, providing an interactive experience for only holders who know where to click. Hint: On the candle flame. 
