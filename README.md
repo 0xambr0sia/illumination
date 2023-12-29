@@ -42,4 +42,4 @@ The application utilizes custom styling and theming defined in the embedded `<st
 
 ## Notes
 
-Feel free to explore and enjoy the ambr0sia web application! If you have specific questions or need further assistance, refer to the complete source code or project documentation.
+Feel free to explore and enjoy! If you have specific questions or need further assistance, refer to the complete source code or project documentation.
